@@ -1,2 +1,1 @@
-# jack
-j a c k
+main — копия.py
